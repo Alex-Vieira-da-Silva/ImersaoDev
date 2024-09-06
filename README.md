@@ -1,6 +1,6 @@
 ## **README.md**
 
-### **Netflix Caseiro: Sua Plataforma de Streaming Personalizada** 
+### **Netflix: Sua Plataforma de Streaming Personalizada - Imersão Dev com Google Gemini** 
 
 **O que é isso?**
 
