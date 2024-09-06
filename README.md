@@ -1,0 +1,2 @@
+## Desafio de projeto
+Durante a Imersão Dev da Alura, tive o privilégio de participar de um projeto incrível em parceria com o Google. O objetivo desse projeto era criar um catálogo de filmes e séries da Netflix, utilizando tecnologias como HTML, JavaScript e CSS. Como profissional da área, essa experiência foi enriquecedora e me permitiu aplicar meus conhecimentos de forma prática.
