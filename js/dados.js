@@ -17,7 +17,7 @@ let dados = [
         ano: 2016,
         classificacao: "16 anos",
         elenco: ["Millie Bobby Brown", "Finn Wolfhard", "David Harbour"],
-        tags: "Ficção ficção terror terror antigo"
+        tags: "Ficção ficção terror terror antigo, moda antiga"
     },
     {
         titulo: "La Casa de Papel",
