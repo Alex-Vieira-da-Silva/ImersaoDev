@@ -5,7 +5,7 @@ let dados = [
     {
         titulo: "The Flash",
         descricao: "Barry Allen, um cientista forense, é atingido por um raio e ganha a habilidade de se mover em super velocidade. Agora, ele precisa usar seus poderes para proteger Central City dos perigos que surgem.",
-        link: "https://pt.wikipedia.org/wiki.org/wiki/The_Flash_(série_de_televisão)",
+        link: "https://pt.wikipedia.org/wiki/The_Flash_(s%C3%A9rie_de_TV_de_2014)",
         genero: "Ação, Ficção Científica, Super-herói",
         ano: 2014,
         classificacao: "12 anos",
