@@ -6,6 +6,33 @@
 
 É um projeto simples de busca em um catálogo de filmes e séries, simulando a experiência de procurar por títulos na Netflix. 
 
+## Catálogo de Séries
+
+* The Flash
+* Arrow
+* SWAT
+* Stranger Things
+* La Casa de Papel
+* Black Mirror
+* The Witcher
+* Bridgerton
+* Ozark
+* Vikings
+
+## Catálogo de Filmes
+
+* Bird Box
+* Extraction
+* The Irishman
+* Spenser Confidential
+* O Irlandês
+* Klaus
+* A Barraca do Beijo
+* Mank
+* O Projeto Adam
+* Enola Holmes
+* A Lista Vermelha
+
 **Como funciona?**
 
 1. **Busca Inteligente:** Digite o nome de um filme ou série e a aplicação fará uma busca completa nos títulos, gêneros, descrições e tags dos itens em nosso banco de dados.
