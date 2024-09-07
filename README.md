@@ -60,7 +60,8 @@
 
 Sinta-se à vontade para explorar o código e fazer suas próprias modificações. Algumas ideias para futuras melhorias:
 
-## Banco de dados:** Substitua o array de objetos por um banco de dados real para armazenar mais informações sobre os filmes e séries.
+## Banco de dados
+
 * **API externa:** Integre a aplicação com uma API de filmes para obter dados mais precisos e atualizados.
 * **Funcionalidades adicionais:** Implemente filtros por gênero, ano de lançamento, classificação indicativa, etc.
 * **Design responsivo:** Adapte a aplicação para funcionar em diferentes dispositivos (desktop, tablet, celular).
