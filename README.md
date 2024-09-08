@@ -60,12 +60,6 @@
 
 Sinta-se à vontade para explorar o código e fazer suas próprias modificações. Algumas ideias para futuras melhorias:
 
-## Banco de dados
-
-* **API externa:** Integre a aplicação com uma API de filmes para obter dados mais precisos e atualizados.
-* **Funcionalidades adicionais:** Implemente filtros por gênero, ano de lançamento, classificação indicativa, etc.
-* **Design responsivo:** Adapte a aplicação para funcionar em diferentes dispositivos (desktop, tablet, celular).
-
 ## Contribuições
 
 Se você quiser contribuir para este projeto, fique à vontade para abrir um pull request!
